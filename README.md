@@ -60,7 +60,7 @@ Os protótipos das telas foram desenvolvidos no Figma e podem ser visualizados a
 
 ## Modelagem do banco
 
-A modelagem do banco de dados foi desenvolvida para SQLite (armazenamento local) e pode ser visualizada através do link público:
+A modelagem do banco de dados foi desenvolvida para SQLite (armazenamento local) e pode ser visualizada através da imagem abaixo:
 
 <img width="616" height="843" alt="DiagramaAgroLog" src="https://github.com/user-attachments/assets/d5bb64d7-3424-429a-a8d0-8bc64b37a01b" />
 
